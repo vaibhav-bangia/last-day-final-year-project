@@ -1,0 +1,94 @@
+POWER ELECTRONICS
+	converting electrical power from once form to another.
+
+POWER ELECTRONIC CONVERTERS
+	
+	WHY USE?
+		produce the power that application needs.
+
+
+	block diagram
+		electrical energy source-> power electronic circuit--> electrical load
+
+		electrical enegy source + PE ckt + control ckt + electrical load
+
+		CONVERTER CHANGES ONE FORM OFO ENERGY TO ANOTHER
+
+	POWER ELECTRONICS ----> 	
+	conversion of power from one form to another and chagne from one voltage level to another.
+
+
+POWER ELECTRONIC CONVERTERS -
+	AC to DC  rectifier
+	DC to ac  inverter dc to ac of req freq
+	DC to DC  chopper -- constant to variable dc or variable dc to constant dc
+	ac to ac cycloconverter 
+
+
+
+
+
+ac to dc 
+	ac from main lines to dc supply to load
+	RECTIFIER 
+		ac->transformer->rectifier(+CONTROL BLOCK)->filter->load
+
+		step down transformer 
+		rectifier -> low voltage ac supply to dc supply
+
+
+		o/p of rectifier is pulsed dc and is filtered using filter circuit
+
+
+
+
+		RECTIFIER CONVERTES LOW VOLTAGE AC SUPPLY INTO DC SUPPLY
+		
+		CLASSIFICATION OF RECTIFIERS 	
+			Uncontrolled Diode Rectifiers.
+			Controlled Rectifierss.
+
+				UNCONTROLLED
+					ac voltage from mains --> fixed line DC
+
+					types 
+						single phase half wave rect
+						single phase centre tapped full wave rect
+						single phase full wave bridge
+						single phase full wavae bridge
+						3 phase half wave
+						3 phase full wave bridege
+				PHASE CONTROLLED RECTIFIER
+					DIFF B/W UNCONTROLLED VS PHASE CONTROLLED
+						UNCONTROLLED DIODES REPLACED BY CONTROLLED THYRISTOR FAMILY OF DEVICEIS SUCH AS SCRs. (Silicon controlled rectifier)
+
+					Unlike diodes, thyristors can be controlled by triggering them at desired instants in order to vary the output voltage.
+
+
+					CONTROLLED RECTIFIER BLOCK DIAGRAM
+						AC SUPPLY->CONTROLED RECTIFER(CONTROL CKT)-> LOAD
+
+						TRANSFERS DC POWER TO THE LOAD IN CONTGROL MANNER BY VARYING TRIGGERING ANGLE OF THYRISTORS ( BY CONTROL CKT)
+
+
+dc to dc 
+	Many DC operated applications need different levels of DC voltage from a fixed DC source.
+
+	Some of these applications include subway cars, DC traction systems, control of large DC motors, battery operated vehicles, trolley buses, etc. They require variable DC to produce variable speed, so a power conversion device is needed.
+
+	A DC chopper is a static device that converts a fixed input DC voltage to variable DC output or a fixed DC output of different magnitude (which can be lower or higher) than input value. The block diagram of a DC chopper is shown in figure below.
+
+	chopper ckt is connected b/w dc i/p source and dc load
+
+	o/p of chopper can be less or greater than the i/p and it can also be fixed or variable
+
+
+	DC choppers are mainly used in DC drives, i.e., electric vehicles and hybrid electric vehicles.
+
+	DC choppers are classified into three basic types based on input and output voltage levels and are discussed below.
+
+
+		STEP DOWN CHOPPER/BUCK
+		STEP UP CHOOPPPER//BOOOOOOOOOST CONVERTER
+		BUCK BOOST CONVERTER
+
