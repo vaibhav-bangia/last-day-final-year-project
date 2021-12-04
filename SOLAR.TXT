@@ -31,8 +31,15 @@ THEORY
 
 
 BATTERY 
-	LEAD-ACID BATTERY
+	LEAD-ACID BATTERY (rechargeable)
 	NOMINAL VOLTAGE - 202 v
 	RATED CAPACITY 50Ah
 	Initial SOC = 50%
 	Battery Response Time(s) 30s
+
+MPPT Solar Charger Controller 
+	This block performs solar PV MPPT based on Peturbation & Observation Alorithm & Charge Lead-Acid Battery using three stage charging algorithm
+
+	MPPT Duty Cycle (delta) Step Size 1e-6
+	Battery charging Constant Voltage (55.4V)
+	PWM Switching Frequencey (Hz) 1000
