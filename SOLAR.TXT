@@ -1,0 +1,38 @@
+PV ARRAY PARAMETERS
+	I/P1 -> Sun Irradiance w/m2
+	(power per unit area received from the Sun)
+
+	I/P2 -> Celle Temperature (Celcius)
+
+
+
+
+
+
+THEORY 
+	SOLAR CHARGE CONTROLLER 
+		SOLAR BATTERY CHARGER CONNECTED B/W SOLAR PANELS AND BATTERY
+
+		TWO MAIN TYPES OF SOLAR CHARGER CONTROLLERS
+			PWM & MPPT
+			PWM (Pulse Width Modulation)
+
+		MPPT - maximum power point trackers
+		They enable the solar panel to operate at its maximum power point, or to be more precise, the optimum voltage for maximum power output. 
+
+		An MPPT is basically an efficient DC to DC converter used to maximise the power output of a solar panel. 
+
+		functioning principle
+			Due to the varying degree of sunlight (irradiance) landing on a solar panel throughout the day, the panel voltage and current continuously changes.
+			In order to generate the most power, the maximum power point tracker sweeps through the panel voltage to find the ‘sweet spot’ or the best combination of voltage and current to produce the maximum power.
+
+			The MPPT is designed to continually track and adjust the voltage to generate the most power no matter what time of day or weather conditions.
+
+
+
+BATTERY 
+	LEAD-ACID BATTERY
+	NOMINAL VOLTAGE - 202 v
+	RATED CAPACITY 50Ah
+	Initial SOC = 50%
+	Battery Response Time(s) 30s
