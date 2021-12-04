@@ -1,12 +1,11 @@
+Photovoltaic cells and panels convert the solar energy into direct-current (DC) electricity.
+
+
 PV ARRAY PARAMETERS
-	I/P1 -> Sun Irradiance w/m2
+	I/P1 -> Sun Irradiance w/m2    1000 W/m2
 	(power per unit area received from the Sun)
 
-	I/P2 -> Celle Temperature (Celcius)
-
-
-
-
+	I/P2 -> Celle Temperature (Celcius) 25 C
 
 
 THEORY 
