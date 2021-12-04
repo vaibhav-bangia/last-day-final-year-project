@@ -1,0 +1,40 @@
+to improve the transitional performance of the System.. we can improve the switching frequency fo the innverter as well as the we can imporve the low pass filter .
+
+rise time
+settling time
+
+
+
+LOW PASSS LC FITER..
+
+
+
+MAIN 
+	pv wiht MPPT
+	fuel cell
+MED
+	
+	UNIVERSAL BRIDGE
+	FILTER1
+	PQ INVERTER
+
+
+BLOCKS
+	THREE PHASE TRANSFORMER 
+
+
+
+
+THREE PHASE PROGRAMMABLE VOLTAGE SOURCE
+	
+	PARAMETERS
+		AMP(Vrms ph-ph) 480    PHASE (0)      Freq 50 
+		TIME OF VARIATION  - FREQUENCY
+		TYPE OF VARIATION - STEP
+		STEP MAGNITUDE -0.8 (PU,DEG,HZ)
+		VARIATION TIMING [START,END] = [0.2 3]
+
+
+DC BUCK BUCK CONVERTER
+
+	

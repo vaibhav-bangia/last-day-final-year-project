@@ -1,0 +1,15 @@
+MPPT use 
+units of irradiance
+
+buck boost battery bi-dir
+
+lc filter.. harmonics/parameters
+order of harmonics eleminated?
+value of capacitor?
+
+
+
+pro
+cam --------> off
+simlation --> 
+total panelists-->	1
