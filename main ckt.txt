@@ -4,3 +4,16 @@ FILTER
 	A low-pass filter is a filter that passes signals with a frequency lower than a selected cutoff frequency and attenuates signals with frequencies higher than the cutoff frequency
 	C = 200-e6
 	L = 150-e3
+
+
+TRANSFORMER
+	V rms 480--->415 V
+
+	Nomainal Power 100e3
+	Freq 50Hz
+
+
+LOAD
+	V(RMS) 1000 v
+	ACTIVE POWER 10e3
+	INDUCTIVE POWER 
