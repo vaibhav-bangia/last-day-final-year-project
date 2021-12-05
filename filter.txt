@@ -1,0 +1,14 @@
+
+FILTER
+
+	A low-pass filter is a filter that passes signals with a frequency lower than a selected cutoff frequency and attenuates signals with frequencies higher than the cutoff frequency
+	C = 200e6
+	L = 150e3
+
+	Low-pass Filters(LPF)
+
+	Low-pass filters are filter circuits that pass DC and low-frequency signals and cut high-frequency signals.
+	They are the most widely used filter circuits and are mainly used to cut high-frequency noise.
+	In audio, they are also used to cut treble/mid-range sound components of bass speakers.
+
+	
