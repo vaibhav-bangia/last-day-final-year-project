@@ -1,0 +1,45 @@
+PID Controller
+	Proportional, Intergral, Derivate Control
+		PID control provides a continuous variation of output within a control loop feedback mechanism to accurately control the process, removing oscillation and increasing process efficiency
+
+		PID controller is a Close loop system which has feedback control system and it compares the Process variable (feedback variable) with set Point and generates an error signal and according to that it adjusts the output of system.
+
+
+		The various types of controllers are used to improve the performance of control systems.
+
+		Proportional Controller 
+			The proportional controller produces an output, which is proportional to error signal.
+
+		Derivative Controller
+			The derivative controller produces an output, which is derivative of the error signal.
+
+		Integral Controller
+			The integral controller produces an output, which is integral of the error signal.
+
+		Proportional Derivative (PD) Controller
+			The proportional derivative controller produces an output, which is the combination of the outputs of proportional and derivative controllers
+
+		Proportional Integral (PI) Controller
+			The proportional integral controller produces an output, which is the combination of outputs of the proportional and integral controllers.
+
+		Proportional Integral Derivative (PID) Controller
+			The proportional integral derivative controller produces an output, which is the combination of the outputs of proportional, integral and derivative controllers.
+
+
+		There are two types of control systems namely:
+			Open loop control systems (non-feedback control systems)
+			Closed loop control systems (feedback control systems)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
