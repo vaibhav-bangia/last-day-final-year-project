@@ -1,3 +1,19 @@
+MPPT use 
+units of irradiance
+
+buck boost battery bi-dir
+
+lc filter.. harmonics/parameters
+order of harmonics eleminated?
+value of capacitor?
+
+
+
+pro
+cam --------> off
+simlation --> 
+total panelists-->	1
+
 to improve the transitional performance of the System.. we can improve the switching frequency fo the innverter as well as the we can imporve the low pass filter .
 
 rise time
