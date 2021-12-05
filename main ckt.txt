@@ -1,21 +1,6 @@
-BATTERY
-	COMPONENTES
-		DC-DC BUCK CONVERTER
-		DC-DC BOOST CONVERTER
 
+FILTER
 
-	BATTERY INSIDE BATTERY
-		Li-Ion Battery
-		Nomianl Voltage - 200V
-		Rated Capacity - 50Ah (Ampere hour)
-		Initial State of Charge - 50 %
-		Battery Response Time 30 Seconds
-
-
-
-	SCOPE 
-		CURRENT(A) 5000--> 0
-		VOLTAGE(V) 0 -- > 200
-		SOC(%) 50 ---> 49.994
-
-		T = 0 ->>> 0.1
+	A low-pass filter is a filter that passes signals with a frequency lower than a selected cutoff frequency and attenuates signals with frequencies higher than the cutoff frequency
+	C = 200e6
+	L = 150e3
