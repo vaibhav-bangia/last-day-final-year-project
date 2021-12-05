@@ -1,0 +1,8 @@
+A fuel cell is a device that generates electricity by a chemical reaction
+
+Every fuel cell has two electrodes called, respectively, the anode and cathode
+
+The reactions that produce electricity take place at the electrodes.
+
+
+Fuel cells work like batteries, but they do not run down or need recharging. They produce electricity and heat as long as fuel is supplied. A fuel cell consists of two electrodes—a negative electrode (or anode) and a positive electrode (or cathode)—sandwiched around an electrolyte.

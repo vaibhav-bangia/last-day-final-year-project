@@ -7,6 +7,9 @@ PV ARRAY PARAMETERS
 
 	I/P2 -> Celle Temperature (Celcius) 25 C
 
+	parallel strings  = 2
+	series connected modules per string = 6
+
 
 THEORY 
 	SOLAR CHARGE CONTROLLER 
