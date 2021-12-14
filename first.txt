@@ -1,7 +1,7 @@
 Three-Phase Transformer Inductane Matrix Type
 	rated,nominal and operating voltage
 		Rated Voltage
-			The rated voltage is the voltage for which equipment is designed to operate reliably. Thus the rated voltage of any electrical equipment is the maximum voltage at which equipment can be operated within its thermal limit without jeopardizing the life of the equipment.
+			The rated voltage is the voltage for which equipment is designed to operate reliably. Thus the rated voltage of any electrical equipnet is the maximum voltage at which equipment can be operated within its thermal limit without jeopardizing the life of the equipment.
 			On the nameplate of the motor, the rated voltage is engraved as 440+/- 10 %. It means the equipment can be operated safely in the voltage range of 396 to 484 volts. The lower limit of the voltage is 396 volts and higher limit of the voltage is 484 volts. If the equipment is operated within this range the equipment will work reliably. The +/10 % margin is the voltage safety margin. 
 
 
@@ -46,83 +46,3 @@ UNIVERSAL BRIDGE
 
 
 
-PID Controller
-	Proportional, Intergral, Derivate Control
-		PID control provides a continuous variation of output within a control loop feedback mechanism to accurately control the process, removing oscillation and increasing process efficiency
-
-		PID controller is a Close loop system which has feedback control system and it compares the Process variable (feedback variable) with set Point and generates an error signal and according to that it adjusts the output of system.
-
-
-		The various types of controllers are used to improve the performance of control systems.
-
-		Proportional Controller 
-			The proportional controller produces an output, which is proportional to error signal.
-
-		Derivative Controller
-			The derivative controller produces an output, which is derivative of the error signal.
-
-		Integral Controller
-			The integral controller produces an output, which is integral of the error signal.
-
-		Proportional Derivative (PD) Controller
-			The proportional derivative controller produces an output, which is the combination of the outputs of proportional and derivative controllers
-
-		Proportional Integral (PI) Controller
-			The proportional integral controller produces an output, which is the combination of outputs of the proportional and integral controllers.
-
-		Proportional Integral Derivative (PID) Controller
-			The proportional integral derivative controller produces an output, which is the combination of the outputs of proportional, integral and derivative controllers.
-
-
-		There are two types of control systems namely:
-			Open loop control systems (non-feedback control systems)
-			Closed loop control systems (feedback control systems)
-
-
-
-
-
-FILTER
-
-	A low-pass filter is a filter that passes signals with a frequency lower than a selected cutoff frequency and attenuates signals with frequencies higher than the cutoff frequency
-	C = 200e6
-	L = 150e3
-
-	Low-pass Filters(LPF)
-
-	Low-pass filters are filter circuits that pass DC and low-frequency signals and cut high-frequency signals.
-	They are the most widely used filter circuits and are mainly used to cut high-frequency noise.
-	In audio, they are also used to cut treble/mid-range sound components of bass speakers.
-
-	
-
-
-
-
-
-
-
-
-
-
-BATTERY
-	COMPONENTES
-		DC-DC BUCK CONVERTER
-		DC-DC BOOST CONVERTER
-
-
-	BATTERY INSIDE BATTERY
-		Li-Ion Battery
-		Nomianl Voltage - 200V
-		Rated Capacity - 50Ah (Ampere hour)
-		Initial State of Charge - 50 %
-		Battery Response Time 30 Seconds
-
-
-
-	SCOPE 
-		CURRENT(A) 5000--> 0
-		VOLTAGE(V) 0 -- > 200
-		SOC(%) 50 ---> 49.994
-
-		T = 0 ->>> 0.1
